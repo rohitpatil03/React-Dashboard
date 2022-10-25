@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaUserAlt } from 'react-icons/fa'
-import logo from './logo.svg';
+
 
 
 const Sidebar = () => {
